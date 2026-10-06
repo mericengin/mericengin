@@ -1,7 +1,7 @@
-Machine Learning Engineer and M.Sc. Computational Linguistics student with a B.A. in German Language and Literature. I bridge the gap between human language and machine intelligence.
+Machine Learning Engineer and M.Sc. Computational Linguistics student, with a B.A. in German Language and Literature. 
 
-My focus is on building AI, ML, and NLP systems. I have practical experience in Python, TypeScript, RAG, vector databases, full-stack development, and NLP research.
+I build AI, ML, and NLP products and systems. Hands-on with Python, TypeScript, RAG, vector databases, full-stack development, agentic systems, and NLP/computational linguistics research. 
 
-Seeking a challenging role as an AI/ML Engineer, Data Scientist, or NLP Engineer.
+Currently ML Engineer @ U-Glow. 
 
 I also write stories and develop games for fun.
